@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FF14_Lodestone_Job_Trust_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Chara_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">35075529</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
